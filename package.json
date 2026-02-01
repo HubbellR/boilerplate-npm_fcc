@@ -5,6 +5,7 @@
 	},
 	"author": "Hubbell Rowe",
 	"description": "This is a test project accomplishing the establishemt of node js knowledge, not accomlishing anything else in particular.",
+	"keywords": ["boilerplate", "educational", "testing", "want to bake more bread", "why don't people bake anymore", "because they are losers", "long live the peasant!", "ignore last four keywords"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
